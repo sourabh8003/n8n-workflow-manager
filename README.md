@@ -38,7 +38,7 @@ Workflow manager development requires running the Code Editor, the express serve
 
 ### Clone Project ###
 ```
-git clone https://github.com/cah-sourabh-singh/workflow-manager-poc.git
+git clone https://github.com/sourabh8003/n8n-workflow-manager.git
 ```
 
 ### Update environment variables ###
